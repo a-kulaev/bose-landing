@@ -1,4 +1,16 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Bose - website
+
+  In this project I implemented Bose website using HTML, CSS, SCSS, JS technologies by BEM methodology.
+
+# Technologies:
+  - HTML
+  - CSS
+  - SCSS
+  - JS
+
+# Preview:
+  https://a-kulaev.github.io/bose-landing/
+
+
+# Mockup:
+  https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE
